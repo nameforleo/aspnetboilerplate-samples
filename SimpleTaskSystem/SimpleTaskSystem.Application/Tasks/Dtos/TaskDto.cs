@@ -26,7 +26,7 @@ namespace SimpleTaskSystem.Tasks.Dtos
                 Id,
                 Description,
                 CreationTime,
-                AssignedPersonId,
+                AssignedPersonName,
                 (TaskState)State
                 );
         }
